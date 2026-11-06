@@ -1,0 +1,27 @@
+user Table
+------------
+id
+name 
+email
+passwordHash
+role
+isActive
+refreshTokenHash
+
+
+Student Table
+---------------
+userId
+StudentId
+dateOfBirth
+gender
+phone
+adress
+
+Teacher Table
+---------------
+userId
+TeacherId
+qualification
+phone
+adress
